@@ -6,7 +6,7 @@
 #### 6
 #### 7 I like icecream
 #### 8
-#### 9
+#### 9 GitHub is awesome
 #### 10
 #### 11
 #### 12
